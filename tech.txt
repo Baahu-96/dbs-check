@@ -1,0 +1,5 @@
+Hey The Tech stack used in the following repo is 
+HTML, CSS 
+In CSS we made use of Grid and Flexbox
+
+
